@@ -19,6 +19,7 @@ namespace TestProject_3oct.Controllers
         {
             int i = 7;
             string s = "hello" ;
+			string name="Adil";
             ViewBag.Message = "Your application description page.";
 
             return View();
