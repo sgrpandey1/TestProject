@@ -10,6 +10,7 @@ namespace TestProject_3oct.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "hello";
             return View();
 			
         }
