@@ -18,6 +18,7 @@ namespace TestProject_3oct.Controllers
         public ActionResult About()
         {
             int i = 7;
+            string s = "hello";
             ViewBag.Message = "Your application description page.";
 
             return View();
