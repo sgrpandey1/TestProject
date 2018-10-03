@@ -11,6 +11,7 @@ namespace TestProject_3oct.Controllers
         public ActionResult Index()
         {
             return View();
+			
         }
 
         public ActionResult About()
