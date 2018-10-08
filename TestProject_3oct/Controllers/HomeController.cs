@@ -18,7 +18,7 @@ namespace TestProject_3oct.Controllers
         public ActionResult About()
         {
             int i = 7;
-            string s = "hello" ;
+            string s = "hello priyanka" ;
 			string name="Adil";
             int age = 22;
             ViewBag.Message = "Your application description page.";
