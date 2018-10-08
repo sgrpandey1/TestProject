@@ -28,7 +28,7 @@ namespace TestProject_3oct.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "hi deepak.";
 
             return View();
         }
