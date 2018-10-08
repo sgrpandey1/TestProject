@@ -18,9 +18,9 @@ namespace TestProject_3oct.Controllers
         public ActionResult About()
         {
             int i = 7;
-            string s = "hello priyanka" ;
+            string s = "Welcome" ;
             string s1 = "priyanka gupta";
-			string name="Adil";
+            string name="Adil";
             int age = 22;
             ViewBag.Message = "Your application description page.";
 
@@ -29,7 +29,7 @@ namespace TestProject_3oct.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "hi deepak.";
 
             return View();
         }
